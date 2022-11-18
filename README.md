@@ -5,7 +5,7 @@ Simple multi-purpose Discord bot made with TypeScript
 ![Lines of Code](https://img.shields.io/tokei/lines/github/twopg/Bot?color=46828d&style=for-the-badge)
 ![Repo Stars](https://img.shields.io/github/stars/twopg/Bot?color=46828d&style=for-the-badge)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/twopg/Bot/tree/stable)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mouhcine1231/Bot/tree/stable)
 
 [2PG Bot Tutorials](https://www.youtube.com/watch?v=rYpR0CiEGgk&list=PLGfT2ttRbfixMStpAhPD4pKBQN9wjJmbP&index=1) •
 [2PG Dashboard Tutorials](https://www.youtube.com/watch?v=rYpR0CiEGgk&list=PLGfT2ttRbfizIr60zU_S_6_i8O3xmP9ia&index=1)
